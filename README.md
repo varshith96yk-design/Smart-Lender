@@ -22,7 +22,7 @@ Smart Lender is a Machine Learning-based web application that predicts whether a
 - NumPy
 
 ## 📂 Project Structure
-
+```text
 Smart-Lender/
 ├── app.py
 ├── model.pkl
@@ -31,7 +31,7 @@ Smart-Lender/
 ├── templates/
 ├── static/
 └── dataset/
-
+```
 
 ## ▶️ Installation
 
