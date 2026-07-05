@@ -313,7 +313,7 @@ python app.py
 
 | Platform | Profile |
 |----------|---------|
-| 🐙 GitHub | varshith96yk-design |
+| 🐙 GitHub | https://github.com/varshith96yk-design |
 | 💼 LinkedIn | https://www.linkedin.com/in/chandra-sai-pothuri-a7a4852b6/ |
 ---
 # ⭐ Acknowledgements
