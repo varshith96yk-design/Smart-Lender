@@ -311,3 +311,5 @@ python app.py
 | LinkedIn | https://www.linkedin.com/in/chandra-sai-pothuri-a7a4852b6/ |
 
 ---
+⭐ Acknowledgements
+This project was developed as part of the AI & Machine Learning curriculum to demonstrate the practical application of Machine Learning and Flask in solving real-world loan eligibility prediction problems.
