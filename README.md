@@ -189,7 +189,7 @@ The trained **XGBoost** model was selected for deployment due to its superior pe
 ```
 Smart-Lender/
 │
-├── dataset/
+├── data/
 ├── models/
 ├── static/
 │   ├── css/
@@ -198,7 +198,7 @@ Smart-Lender/
 │
 ├── templates/
 │   ├── index.html
-│   ├── predict.html
+│   ├── landing.html
 │   └── result.html
 │
 ├── app.py
