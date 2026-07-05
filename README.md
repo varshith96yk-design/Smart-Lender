@@ -41,6 +41,21 @@ cd Smart-Lender
 pip install -r requirements.txt
 python app.py
 ```
+## 📌 Project Information
+
+| Attribute | Details |
+|-----------|---------|
+| **Project Name** | Smart Lender |
+| **Domain** | Machine Learning |
+| **Framework** | Flask |
+| **Language** | Python |
+| **Database** | CSV Dataset |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | Flask |
+| **Machine Learning Library** | Scikit-learn |
+| **Status** | Completed |
+
+---
 
 ## 🌐 Usage
 
