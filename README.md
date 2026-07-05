@@ -254,7 +254,7 @@ Through this project, the following skills were developed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Smart-Lender.git
+git clone https://github.com/varshith96yk-design/Smart-Lender
 ```
 
 ### Navigate to the Project
@@ -312,7 +312,7 @@ python app.py
 
 | Platform | Link |
 |----------|------|
-| GitHub | | https://github.com/varshith96yk-design/|
+| GitHub | | https://github.com/varshith96yk-design/ |
 | LinkedIn | https://www.linkedin.com/in/chandra-sai-pothuri-a7a4852b6/ |
 
 ---
