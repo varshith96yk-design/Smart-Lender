@@ -1,6 +1,6 @@
 # 🏦 Smart Lender – Loan Eligibility Prediction System
 
-> An intelligent Machine Learning-based web application that predicts loan eligibility using applicant information and assists financial institutions in making faster, more accurate, and data-driven lending decisions.
+An intelligent Machine Learning-based web application that predicts loan eligibility using applicant information and assists financial institutions in making faster, more accurate, and data-driven lending decisions.
 
 ---
 
