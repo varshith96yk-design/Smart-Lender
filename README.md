@@ -32,6 +32,7 @@ Smart-Lender/
 ├── static/
 └── dataset/
 
+
 ## ▶️ Installation
 
 ```bash
