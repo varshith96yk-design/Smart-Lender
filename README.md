@@ -305,16 +305,16 @@ python app.py
 
 ## Y Varshith
 
-🎓 **B.Tech – Computer Science & Engineering (AI & ML)**  
+🎓 **B.Tech – Computer Science & Engineering (AI & ML)**
+
 🏫 **Anantha Lakshmi Institute of Technology and Sciences**
 
 ### 📫 Connect with Me
 
-| Platform | Link |
-|----------|------|
-| GitHub | | https://github.com/varshith96yk-design |
-| LinkedIn | https://www.linkedin.com/in/chandra-sai-pothuri-a7a4852b6/ |
-
+| Platform | Profile |
+|----------|---------|
+| 🐙 GitHub | https://github.com/CHANDRASAI9491 |
+| 💼 LinkedIn | https://www.linkedin.com/in/chandra-sai-pothuri-a7a4852b6/ |
 ---
 # ⭐ Acknowledgements
 
