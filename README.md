@@ -307,9 +307,21 @@ python app.py
 
 | Platform | Link |
 |----------|------|
-| GitHub | | https://github.com/varshith96yk-design/ |
+| GitHub | | https://github.com/varshith96yk-design/|
 | LinkedIn | https://www.linkedin.com/in/chandra-sai-pothuri-a7a4852b6/ |
 
 ---
-⭐ Acknowledgements
-This project was developed as part of the AI & Machine Learning curriculum to demonstrate the practical application of Machine Learning and Flask in solving real-world loan eligibility prediction problems.
+# ⭐ Acknowledgements
+
+This project was developed as part of the **Artificial Intelligence & Machine Learning** curriculum to demonstrate the practical application of **Machine Learning** and **Flask** in solving real-world loan eligibility prediction problems.
+
+### Special Thanks
+
+- Faculty members and mentors for their guidance and support.
+- Anantha Lakshmi Institute of Technology and Sciences for providing the academic environment to complete this project.
+- The open-source community for providing powerful libraries such as **NumPy**, **Pandas**, **Scikit-learn**, **XGBoost**, and **Flask**.
+- Everyone who contributed feedback and ideas during the development of this project.
+
+---
+
+**This project is intended for educational and learning purposes.**
